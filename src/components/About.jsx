@@ -12,7 +12,7 @@ function About() {
     <a href="maito:exequiel.ol29@gmail.com" className='block mt-3 text-md md:text-lg font-regular text-gray-700 dark:text-gray-300 underline hover:text-indigo-500 dark:hover:text-indigo-500'>exequiel.ol29@gmail.com</a>
         
       </div>
-     <img src={`https://i.postimg.cc/g2zTnZXv/damif.png`} alt="Damian Olmedo" className='w-full md:w-1/3 rounded-lg object-cover' />
+     <img src={`https://i.postimg.cc/0Q6KkTzJ/perfilsc.png`} alt="Damian Olmedo" className='w-full md:w-1/3 rounded-lg object-cover' />
     </div>
   )
   
